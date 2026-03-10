@@ -1,0 +1,9 @@
+anio,unidad,y_true,prob,pred
+2024,Facultad de Ingeniería,1,1.0,1
+2024,Ciencias Económicas,1,1.0,1
+2024,Medicina,0,0.7005802366375145,1
+2024,Derecho,1,0.7585415302354752,1
+2024,Educación,0,1.0,1
+2024,Sedes y Seccionales,1,0.6666666666666666,1
+2024,Institutos,1,0.380621666822442,1
+2024,Nivel Central,1,0.8906462134979801,1
