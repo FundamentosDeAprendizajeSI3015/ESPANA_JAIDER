@@ -1,0 +1,9 @@
+anio,unidad,y_true,prob,pred
+2025,Facultad de Ingeniería,0,0.0,0
+2025,Ciencias Económicas,0,0.0,0
+2025,Medicina,1,0.9333,1
+2025,Derecho,1,0.9333,1
+2025,Educación,1,0.9333,1
+2025,Sedes y Seccionales,1,0.6667,1
+2025,Institutos,1,0.9699,1
+2025,Nivel Central,1,0.9371,1
