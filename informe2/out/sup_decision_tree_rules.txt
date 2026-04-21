@@ -1,0 +1,73 @@
+|--- deuda_patrimonio_lm <= 11.27
+|   |--- roa_lm <= 3.86
+|   |   |--- deuda_activos_lm <= -1.40
+|   |   |   |--- multiplicador_cap_lm <= 9.77
+|   |   |   |   |--- margen_neto_lm <= 17.15
+|   |   |   |   |   |--- roa_lm <= -9.63
+|   |   |   |   |   |   |--- class: 6
+|   |   |   |   |   |--- roa_lm >  -9.63
+|   |   |   |   |   |   |--- class: 4
+|   |   |   |   |--- margen_neto_lm >  17.15
+|   |   |   |   |   |--- class: 3
+|   |   |   |--- multiplicador_cap_lm >  9.77
+|   |   |   |   |--- class: 5
+|   |   |--- deuda_activos_lm >  -1.40
+|   |   |   |--- margen_neto_lm <= -6.26
+|   |   |   |   |--- roe_lm <= -6.89
+|   |   |   |   |   |--- roa_lm <= -5.74
+|   |   |   |   |   |   |--- class: 6
+|   |   |   |   |   |--- roa_lm >  -5.74
+|   |   |   |   |   |   |--- class: 6
+|   |   |   |   |--- roe_lm >  -6.89
+|   |   |   |   |   |--- margen_neto_lm <= -14.48
+|   |   |   |   |   |   |--- class: 6
+|   |   |   |   |   |--- margen_neto_lm >  -14.48
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |--- margen_neto_lm >  -6.26
+|   |   |   |   |--- margen_neto_lm <= 6.40
+|   |   |   |   |   |--- roe_lm <= 6.08
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |   |--- roe_lm >  6.08
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- margen_neto_lm >  6.40
+|   |   |   |   |   |--- margen_neto_lm <= 19.13
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- margen_neto_lm >  19.13
+|   |   |   |   |   |   |--- class: 3
+|   |--- roa_lm >  3.86
+|   |   |--- margen_neto_lm <= 17.76
+|   |   |   |--- deuda_patrimonio_lm <= -0.75
+|   |   |   |   |--- roa_lm <= 17.62
+|   |   |   |   |   |--- class: 4
+|   |   |   |   |--- roa_lm >  17.62
+|   |   |   |   |   |--- margen_neto_lm <= 12.64
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- margen_neto_lm >  12.64
+|   |   |   |   |   |   |--- class: 3
+|   |   |   |--- deuda_patrimonio_lm >  -0.75
+|   |   |   |   |--- roa_lm <= 4.71
+|   |   |   |   |   |--- cobertura_ingresos_lm <= 0.19
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- cobertura_ingresos_lm >  0.19
+|   |   |   |   |   |   |--- class: 2
+|   |   |   |   |--- roa_lm >  4.71
+|   |   |   |   |   |--- roa_lm <= 5.09
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |   |--- roa_lm >  5.09
+|   |   |   |   |   |   |--- class: 1
+|   |   |--- margen_neto_lm >  17.76
+|   |   |   |--- deuda_patrimonio_lm <= 1.00
+|   |   |   |   |--- margen_neto_lm <= 18.41
+|   |   |   |   |   |--- margen_neto_lm <= 18.27
+|   |   |   |   |   |   |--- class: 3
+|   |   |   |   |   |--- margen_neto_lm >  18.27
+|   |   |   |   |   |   |--- class: 1
+|   |   |   |   |--- margen_neto_lm >  18.41
+|   |   |   |   |   |--- class: 3
+|   |   |   |--- deuda_patrimonio_lm >  1.00
+|   |   |   |   |--- cobertura_ingresos_lm <= -0.94
+|   |   |   |   |   |--- class: 3
+|   |   |   |   |--- cobertura_ingresos_lm >  -0.94
+|   |   |   |   |   |--- class: 1
+|--- deuda_patrimonio_lm >  11.27
+|   |--- class: 0
